@@ -3,4 +3,4 @@
 Grails Fixtures Plugin
 ===
 
-Documentation can be found @ [http://gpc.github.com/grails-fixtures/](http://gpc.github.com/grails-fixtures/ "Grails Fixtures Plugin @ GitHub")
+Documentation can be found @ [http://web.archive.org/web/20150527051907/http://gpc.github.io/grails-fixtures](http://web.archive.org/web/20150527051907/http://gpc.github.io/grails-fixtures "Grails Fixtures Plugin @ GitHub")
